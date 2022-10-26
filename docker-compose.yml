@@ -1,0 +1,57 @@
+version: '2'
+services:
+  webserver:
+    restart: always
+    build: C:\Users\nam.bui\sl-docker-2\sl-docker-2\docker\webserver
+    container_name: nginx-server
+    ports:
+      - "80:80"
+      - "443:443"
+      - "3000:3000"
+      - "3001:3001"
+      - "8080:8080"
+      - "4200:4200"
+      - "27017:27017"
+      - "9009:9009"
+    environment:
+      SCHOOLLINK_RABBITMQ_HOST: rabbitmq
+      SCHOOLLINK_RABBITMQ_PORT: 5672
+      SCHOOLLINK_RABBITMQ_USER: admin
+      SCHOOLLINK_RABBITMQ_PASS: docker
+    tty: true
+  volumes:
+      - "/mnt/c/Users/nam.bui/sl-docker-2/sl-docker-2/www:/var/www/html"
+      - "/mnt/c/Users/nam.bui/sl-docker-2/sl-docker-2/docker/webserver/config:/var/www/config"
+      # - /Users/ceres/working/projects/netpower/sl-docker/www:/var/www/html
+      # - /Users/ceres/working/projects/netpower/sl-docker/docker/webserver/config:/var/www/config
+      - mongodbdata:/data/db
+      - "/mnt/c/Users/nam.buisl-docker-2/sl-docker-2/logs:/var/log/dev-log"
+    # links:
+    #   - rabbitmq
+  #    - db
+  #db:
+  #  restart: none
+  #  image: propocoyo/mysql-server:1.0
+  #  container_name: mysql-server
+  #  ports: 
+  #    - "3306:3306"
+  #  volumes:
+  #    - /Users/ceres/working/projects/netpower/sl-docker/db:/var/lib/mysql
+  #  environment:
+  #    - MYSQL_ROOT_PASSWORD=docker
+  #    - MYSQL_DATABASE=db_demo
+#   rabbitmq:
+#       image: "propocoyo/nginxdocker_rabbitmq_1-backup:1.0"
+#       hostname: "rabbitmq"
+#       environment:
+#         RABBITMQ_ERLANG_COOKIE: "SWQOKODSQALRPCLNMEQG"
+#         RABBITMQ_DEFAULT_USER: "admin"
+#         RABBITMQ_DEFAULT_PASS: "docker"
+#         RABBITMQ_DEFAULT_VHOST: "/"
+#       ports:
+#         - "15673:15672"
+#         - "5673:5672"
+#       labels:
+#         NAME: "rabbitmq-server"
+# volumes:
+#     mongodbdata:

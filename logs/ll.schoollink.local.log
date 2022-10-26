@@ -1,0 +1,264 @@
+2021/08/04 06:40:46 [error] 3986#3986: *2516 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::ping(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 99
+PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 102
+PHP message: PHP Warning:  SchoolLink\Common\Drivers\MySQLi
+2021/08/04 06:43:41 [error] 3986#3986: *2530 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::ping(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 99
+PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 102
+PHP message: PHP Warning:  SchoolLink\Common\Drivers\MySQLi
+2021/08/04 07:28:56 [error] 3986#3986: *2722 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::ping(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 99
+PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 102
+PHP message: PHP Warning:  SchoolLink\Common\Drivers\MySQLi
+2021/08/04 07:29:26 [error] 3986#3986: *2722 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function SchoolLink\Config\Options\MySQL\dd() in /var/www/html/ll-act/SchoolLink/Config/Options/MySQL/MySQLServer.php:28
+Stack trace:
+#0 /var/www/html/ll-act/SchoolLink/Config/Presets/LocalPreset.php(186): SchoolLink\Config\Options\MySQL\MySQLServer->__construct('192.168.181.23', 'root', 'netPower2010', 'camp-hudoy-dev')
+#1 /var/www/html/ll-act/SchoolLink/Config/Options/MySQL/MySQLTrait.php(20): SchoolLink\Config\Presets\LocalPreset->MySQL_Set()
+#2 /var/www/html/ll-act/SchoolLink/LayerPresentation/Common/ModuleImplementer.php(54): SchoolLink\Config\ComponentModels\Preset->MySQL()
+#3 /var/www/html/ll-act/SchoolLink/LayerPresentation/App.php(40): SchoolLink\LayerPresentation\Common\ModuleImplementer::implement(Object(SchoolLink\LayerPresentation\App))
+#4 /var/www/html/ll-act/SchoolLink/LayerPresentation/Web/index.php(7): SchoolLink\LayerPresentation\App->__construct(true)
+#5 {main}
+  thrown in /var/www/html/ll-act/SchoolLink/Config/Options/MyS" while reading response header from upstream, client: 172.19.0.1, server: ll.schoollink.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "ll.schoollink.local"
+2021/08/04 07:29:30 [error] 3986#3986: *2722 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function SchoolLink\Config\Options\MySQL\dd() in /var/www/html/ll-act/SchoolLink/Config/Options/MySQL/MySQLServer.php:28
+Stack trace:
+#0 /var/www/html/ll-act/SchoolLink/Config/Presets/LocalPreset.php(186): SchoolLink\Config\Options\MySQL\MySQLServer->__construct('192.168.181.23', 'root', 'netPower2010', 'camp-hudoy-dev')
+#1 /var/www/html/ll-act/SchoolLink/Config/Options/MySQL/MySQLTrait.php(20): SchoolLink\Config\Presets\LocalPreset->MySQL_Set()
+#2 /var/www/html/ll-act/SchoolLink/LayerPresentation/Common/ModuleImplementer.php(54): SchoolLink\Config\ComponentModels\Preset->MySQL()
+#3 /var/www/html/ll-act/SchoolLink/LayerPresentation/App.php(40): SchoolLink\LayerPresentation\Common\ModuleImplementer::implement(Object(SchoolLink\LayerPresentation\App))
+#4 /var/www/html/ll-act/SchoolLink/LayerPresentation/Web/index.php(7): SchoolLink\LayerPresentation\App->__construct(true)
+#5 {main}
+  thrown in /var/www/html/ll-act/SchoolLink/Config/Options/MyS" while reading response header from upstream, client: 172.19.0.1, server: ll.schoollink.local, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "ll.schoollink.local"
+2021/08/04 07:30:11 [error] 3986#3986: *2722 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::escape_string(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/LayerBusiness/Controllers/Business/Authentication/WebLoginPage/WebDomainDependentEnvironmentVariables.php on line 51
+PHP message: PHP Warning:  mysqli::ping(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 99
+PHP message: PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'192.168.181.35' (using password: YES) in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 38
+PHP message: PHP Warning:  mysqli::select_db(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 43
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 44
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch SchoolLink\Common\Drivers\MySQLi in /var/www/html/ll-act/SchoolLink/Common/Drivers/MySQLi.php on line 102
+PHP message: PHP Warning:  SchoolLink\Common\Drivers\MySQLi
+2021/08/04 09:26:45 [error] 4025#4025: *4987 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in 
+2021/08/04 10:48:50 [error] 968#968: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 10:49:10 [error] 968#968: *146 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:39:45 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:40:45 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:41:50 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:42:46 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:43:45 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:44:47 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:45:46 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:46:46 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_714535 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718465 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718468 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718471 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_718472 in /va
+2021/08/04 11:46:47 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17942991) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17942992) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943038) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943041) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943054) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943058) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943102) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943121) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943122) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:13332752 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:13332753 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:13332758 in /var/www/html/ll-act/shared/repositories/functions.php on lin
+2021/08/04 11:46:47 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943054 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943058 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943102 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943121 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943122 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:15277884) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:15277887) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943124) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943127) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:15277884 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:15277887 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943124 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning
+2021/08/04 11:46:47 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943037) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP messa" while reading upstream, client: 172.19.0.1, server: ll.schoollink.local, request: "POST /Api/Web/Collaboration/Chat/ChatWidgetUpdater HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "ll.schoollink.local", referrer: "http://ll.schoollink.local/"
+2021/08/04 11:46:47 [error] 968#968: *941 FastCGI sent in stderr: "ge: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943039) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943040) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943037 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943039 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943040 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943051) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943052) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943053) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943051 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943052 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943053 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943055) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warn
+2021/08/04 11:46:47 [error] 968#968: *941 FastCGI sent in stderr: "PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943104 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943023) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock" while reading upstream, client: 172.19.0.1, server: ll.schoollink.local, request: "POST /Api/Web/Collaboration/Chat/ChatWidgetUpdater HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "ll.schoollink.local", referrer: "http://ll.schoollink.local/"
+2021/08/04 11:46:47 [error] 968#968: *941 FastCGI sent in stderr: "(user_roles:id:17943025) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(user_roles:id:17943026) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943023 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943025 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key user_roles:id:17943026 in /var/www/html/ll-act/shared/repositories/functions.php on line 118
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_707510) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_714535) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718468) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718471) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718472) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718483) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key lock(users_id_718465) in /var/www/html/ll-act/shared/repositories/functions.php on line 155
+PHP message: PHP Warning:  Memcached::setMulti(): failed to set key users_id_707510 in /var/www/html/ll-act/shared/
+2021/08/04 14:57:51 [error] 235#235: *459 FastCGI sent in stderr: "PHP message: PHP Warning:  file_put_contents(/usr/share/nginx/html/custom-sfopro/debug): failed to open stream: No such file or directory in /var/www/html/ll-act/SchoolLink/LayerPresentation/Controllers/Api/Web/Pages/Oslo/SummerSchool/ParticipantList/GetParticipants.php on line 194
+PHP message: PHP Warning:  file_put_contents(/usr/share/nginx/html/custom-sfopro/debug): failed to open stream: No such file or directory in /var/www/html/ll-act/SchoolLink/LayerPresentation/Controllers/Api/Web/Pages/Oslo/SummerSchool/ParticipantList/GetParticipants.php on line 195
+PHP message: PHP Warning:  file_put_contents(/usr/share/nginx/html/custom-sfopro/debug): failed to open stream: No such file or directory in /var/www/html/ll-act/SchoolLink/LayerPresentation/Controllers/Api/Web/Pages/Oslo/SummerSchool/ParticipantList/GetParticipants.php on line 196" while reading response header from upstream, client: 172.19.0.1, server: ll.schoollink.local, request: "POST /Api/Web/Pages/Oslo/SummerSchool/ParticipantList/GetParticipants HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "ll.schoollink.local", referrer: "http://ll.schoollink.local/"

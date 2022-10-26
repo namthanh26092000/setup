@@ -1,0 +1,360 @@
+[03-Aug-2021 11:14:45] NOTICE: fpm is running, pid 73
+[03-Aug-2021 11:14:45] NOTICE: ready to handle connections
+[03-Aug-2021 11:14:45] NOTICE: systemd monitor interval set to 10000ms
+[04-Aug-2021 10:37:06] NOTICE: fpm is running, pid 964
+[04-Aug-2021 10:37:06] NOTICE: ready to handle connections
+[04-Aug-2021 10:37:06] NOTICE: systemd monitor interval set to 10000ms
+[04-Aug-2021 10:37:16] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 19 idle, and 25 total children
+[04-Aug-2021 13:04:50] NOTICE: fpm is running, pid 329
+[04-Aug-2021 13:04:50] NOTICE: ready to handle connections
+[04-Aug-2021 13:04:50] NOTICE: systemd monitor interval set to 10000ms
+[04-Aug-2021 14:33:21] NOTICE: fpm is running, pid 48
+[04-Aug-2021 14:33:21] NOTICE: ready to handle connections
+[04-Aug-2021 14:33:21] NOTICE: systemd monitor interval set to 10000ms
+[06-Aug-2021 06:22:07] NOTICE: fpm is running, pid 44
+[06-Aug-2021 06:22:07] NOTICE: ready to handle connections
+[06-Aug-2021 06:22:07] NOTICE: systemd monitor interval set to 10000ms
+[06-Aug-2021 06:33:57] NOTICE: fpm is running, pid 44
+[06-Aug-2021 06:33:57] NOTICE: ready to handle connections
+[06-Aug-2021 06:33:57] NOTICE: systemd monitor interval set to 10000ms
+[06-Aug-2021 06:42:33] NOTICE: fpm is running, pid 48
+[06-Aug-2021 06:42:33] NOTICE: ready to handle connections
+[06-Aug-2021 06:42:33] NOTICE: systemd monitor interval set to 10000ms
+[06-Aug-2021 06:47:15] NOTICE: fpm is running, pid 48
+[06-Aug-2021 06:47:15] NOTICE: ready to handle connections
+[06-Aug-2021 06:47:15] NOTICE: systemd monitor interval set to 10000ms
+[06-Aug-2021 07:15:54] NOTICE: Finishing ...
+[06-Aug-2021 07:15:54] NOTICE: exiting, bye-bye!
+[06-Aug-2021 07:15:54] NOTICE: fpm is running, pid 148
+[06-Aug-2021 07:15:55] NOTICE: ready to handle connections
+[06-Aug-2021 07:15:55] NOTICE: systemd monitor interval set to 10000ms
+[06-Aug-2021 07:39:51] NOTICE: fpm is running, pid 47
+[06-Aug-2021 07:39:52] NOTICE: ready to handle connections
+[06-Aug-2021 07:39:52] NOTICE: systemd monitor interval set to 10000ms
+[09-Aug-2021 03:11:45] NOTICE: fpm is running, pid 47
+[09-Aug-2021 03:11:45] NOTICE: ready to handle connections
+[09-Aug-2021 03:11:45] NOTICE: systemd monitor interval set to 10000ms
+[09-Aug-2021 08:30:11] NOTICE: fpm is running, pid 45
+[09-Aug-2021 08:30:11] NOTICE: ready to handle connections
+[09-Aug-2021 08:30:11] NOTICE: systemd monitor interval set to 10000ms
+[10-Aug-2021 02:02:48] NOTICE: fpm is running, pid 46
+[10-Aug-2021 02:02:48] NOTICE: ready to handle connections
+[10-Aug-2021 02:02:48] NOTICE: systemd monitor interval set to 10000ms
+[11-Aug-2021 02:37:29] NOTICE: fpm is running, pid 48
+[11-Aug-2021 02:37:29] NOTICE: ready to handle connections
+[11-Aug-2021 02:37:29] NOTICE: systemd monitor interval set to 10000ms
+[12-Aug-2021 02:34:08] NOTICE: fpm is running, pid 45
+[12-Aug-2021 02:34:08] NOTICE: ready to handle connections
+[12-Aug-2021 02:34:08] NOTICE: systemd monitor interval set to 10000ms
+[13-Aug-2021 01:59:56] NOTICE: fpm is running, pid 46
+[13-Aug-2021 01:59:56] NOTICE: ready to handle connections
+[13-Aug-2021 01:59:56] NOTICE: systemd monitor interval set to 10000ms
+[13-Aug-2021 03:08:53] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 19 idle, and 25 total children
+[15-Aug-2021 11:08:12] NOTICE: fpm is running, pid 45
+[15-Aug-2021 11:08:12] NOTICE: ready to handle connections
+[15-Aug-2021 11:08:12] NOTICE: systemd monitor interval set to 10000ms
+[17-Aug-2021 08:16:27] NOTICE: fpm is running, pid 44
+[17-Aug-2021 08:16:27] NOTICE: ready to handle connections
+[17-Aug-2021 08:16:27] NOTICE: systemd monitor interval set to 10000ms
+[17-Aug-2021 08:44:54] NOTICE: fpm is running, pid 48
+[17-Aug-2021 08:44:54] NOTICE: ready to handle connections
+[17-Aug-2021 08:44:54] NOTICE: systemd monitor interval set to 10000ms
+[17-Aug-2021 09:12:46] NOTICE: fpm is running, pid 49
+[17-Aug-2021 09:12:46] NOTICE: ready to handle connections
+[17-Aug-2021 09:12:46] NOTICE: systemd monitor interval set to 10000ms
+[18-Aug-2021 04:38:38] NOTICE: fpm is running, pid 44
+[18-Aug-2021 04:38:38] NOTICE: ready to handle connections
+[18-Aug-2021 04:38:38] NOTICE: systemd monitor interval set to 10000ms
+[18-Aug-2021 04:42:34] NOTICE: fpm is running, pid 48
+[18-Aug-2021 04:42:34] NOTICE: ready to handle connections
+[18-Aug-2021 04:42:34] NOTICE: systemd monitor interval set to 10000ms
+[18-Aug-2021 07:10:31] NOTICE: Finishing ...
+[18-Aug-2021 07:10:31] NOTICE: exiting, bye-bye!
+[18-Aug-2021 07:10:32] NOTICE: fpm is running, pid 265
+[18-Aug-2021 07:10:32] NOTICE: ready to handle connections
+[18-Aug-2021 07:10:32] NOTICE: systemd monitor interval set to 10000ms
+[19-Aug-2021 11:13:00] NOTICE: [pool www] child 272 exited with code 0 after 101062.783203 seconds from start
+[19-Aug-2021 11:13:00] NOTICE: [pool www] child 860 started
+[19-Aug-2021 11:13:21] NOTICE: [pool www] child 267 exited with code 0 after 101083.511763 seconds from start
+[19-Aug-2021 11:13:21] NOTICE: [pool www] child 861 started
+[19-Aug-2021 11:13:24] NOTICE: [pool www] child 266 exited with code 0 after 101086.458151 seconds from start
+[19-Aug-2021 11:13:24] NOTICE: [pool www] child 862 started
+[19-Aug-2021 11:13:27] NOTICE: [pool www] child 270 exited with code 0 after 101089.678999 seconds from start
+[19-Aug-2021 11:13:27] NOTICE: [pool www] child 863 started
+[19-Aug-2021 11:13:30] NOTICE: [pool www] child 290 exited with code 0 after 101087.374078 seconds from start
+[19-Aug-2021 11:13:30] NOTICE: [pool www] child 864 started
+[19-Aug-2021 11:13:39] NOTICE: [pool www] child 285 exited with code 0 after 101101.440016 seconds from start
+[19-Aug-2021 11:13:39] NOTICE: [pool www] child 865 started
+[19-Aug-2021 11:13:45] NOTICE: [pool www] child 280 exited with code 0 after 101107.505299 seconds from start
+[19-Aug-2021 11:13:45] NOTICE: [pool www] child 866 started
+[19-Aug-2021 11:13:48] NOTICE: [pool www] child 271 exited with code 0 after 101110.473434 seconds from start
+[19-Aug-2021 11:13:48] NOTICE: [pool www] child 867 started
+[19-Aug-2021 11:13:57] NOTICE: [pool www] child 277 exited with code 0 after 101119.542090 seconds from start
+[19-Aug-2021 11:13:57] NOTICE: [pool www] child 868 started
+[19-Aug-2021 11:14:00] NOTICE: [pool www] child 273 exited with code 0 after 101122.896388 seconds from start
+[19-Aug-2021 11:14:00] NOTICE: [pool www] child 869 started
+[19-Aug-2021 11:14:00] NOTICE: [pool www] child 283 exited with code 0 after 101122.882476 seconds from start
+[19-Aug-2021 11:14:00] NOTICE: [pool www] child 870 started
+[19-Aug-2021 11:14:01] NOTICE: [pool www] child 275 exited with code 0 after 101123.149898 seconds from start
+[19-Aug-2021 11:14:01] NOTICE: [pool www] child 871 started
+[19-Aug-2021 11:14:03] NOTICE: [pool www] child 268 exited with code 0 after 101125.534467 seconds from start
+[19-Aug-2021 11:14:03] NOTICE: [pool www] child 872 started
+[19-Aug-2021 11:14:06] NOTICE: [pool www] child 279 exited with code 0 after 101128.462255 seconds from start
+[19-Aug-2021 11:14:06] NOTICE: [pool www] child 873 started
+[19-Aug-2021 11:14:12] NOTICE: [pool www] child 269 exited with code 0 after 101134.578135 seconds from start
+[19-Aug-2021 11:14:12] NOTICE: [pool www] child 874 started
+[19-Aug-2021 11:14:15] NOTICE: [pool www] child 284 exited with code 0 after 101137.569807 seconds from start
+[19-Aug-2021 11:14:15] NOTICE: [pool www] child 875 started
+[19-Aug-2021 11:14:18] NOTICE: [pool www] child 286 exited with code 0 after 101140.497760 seconds from start
+[19-Aug-2021 11:14:18] NOTICE: [pool www] child 876 started
+[19-Aug-2021 11:14:21] NOTICE: [pool www] child 278 exited with code 0 after 101143.747889 seconds from start
+[19-Aug-2021 11:14:21] NOTICE: [pool www] child 877 started
+[19-Aug-2021 11:14:24] NOTICE: [pool www] child 274 exited with code 0 after 101146.427389 seconds from start
+[19-Aug-2021 11:14:24] NOTICE: [pool www] child 878 started
+[19-Aug-2021 11:14:42] NOTICE: [pool www] child 281 exited with code 0 after 101164.650358 seconds from start
+[19-Aug-2021 11:14:42] NOTICE: [pool www] child 879 started
+[19-Aug-2021 11:15:50] NOTICE: [pool www] child 282 exited with code 0 after 101232.581233 seconds from start
+[19-Aug-2021 11:15:50] NOTICE: [pool www] child 880 started
+[19-Aug-2021 11:18:22] NOTICE: [pool www] child 293 exited with code 0 after 100818.898007 seconds from start
+[19-Aug-2021 11:18:22] NOTICE: [pool www] child 881 started
+[20-Aug-2021 03:18:02] NOTICE: fpm is running, pid 43
+[20-Aug-2021 03:18:03] NOTICE: ready to handle connections
+[20-Aug-2021 03:18:03] NOTICE: systemd monitor interval set to 10000ms
+[20-Aug-2021 05:41:51] NOTICE: fpm is running, pid 45
+[20-Aug-2021 05:41:51] NOTICE: ready to handle connections
+[20-Aug-2021 05:41:51] NOTICE: systemd monitor interval set to 10000ms
+[22-Aug-2021 08:29:05] NOTICE: fpm is running, pid 41
+[22-Aug-2021 08:29:05] NOTICE: ready to handle connections
+[22-Aug-2021 08:29:05] NOTICE: systemd monitor interval set to 10000ms
+[22-Aug-2021 08:57:43] NOTICE: fpm is running, pid 163
+[22-Aug-2021 08:57:43] NOTICE: ready to handle connections
+[22-Aug-2021 08:57:43] NOTICE: systemd monitor interval set to 10000ms
+[22-Aug-2021 21:24:24] NOTICE: Terminating ...
+[23-Aug-2021 01:41:57] NOTICE: fpm is running, pid 47
+[23-Aug-2021 01:41:57] NOTICE: ready to handle connections
+[23-Aug-2021 01:41:58] NOTICE: systemd monitor interval set to 10000ms
+[23-Aug-2021 02:13:26] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 19 idle, and 25 total children
+[24-Aug-2021 02:41:51] NOTICE: fpm is running, pid 43
+[24-Aug-2021 02:41:51] NOTICE: ready to handle connections
+[24-Aug-2021 02:41:51] NOTICE: systemd monitor interval set to 10000ms
+[24-Aug-2021 04:18:16] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 19 idle, and 25 total children
+[24-Aug-2021 07:59:20] NOTICE: fpm is running, pid 48
+[24-Aug-2021 07:59:20] NOTICE: ready to handle connections
+[24-Aug-2021 07:59:20] NOTICE: systemd monitor interval set to 10000ms
+[24-Aug-2021 10:36:25] NOTICE: fpm is running, pid 48
+[24-Aug-2021 10:36:25] NOTICE: ready to handle connections
+[24-Aug-2021 10:36:25] NOTICE: systemd monitor interval set to 10000ms
+[24-Aug-2021 16:33:45] NOTICE: fpm is running, pid 48
+[24-Aug-2021 16:33:45] NOTICE: ready to handle connections
+[24-Aug-2021 16:33:45] NOTICE: systemd monitor interval set to 10000ms
+[25-Aug-2021 02:13:56] NOTICE: fpm is running, pid 46
+[25-Aug-2021 02:13:56] NOTICE: ready to handle connections
+[25-Aug-2021 02:13:56] NOTICE: systemd monitor interval set to 10000ms
+[25-Aug-2021 21:05:45] NOTICE: fpm is running, pid 45
+[25-Aug-2021 21:05:45] NOTICE: ready to handle connections
+[25-Aug-2021 21:05:45] NOTICE: systemd monitor interval set to 10000ms
+[26-Aug-2021 03:13:45] NOTICE: fpm is running, pid 49
+[26-Aug-2021 03:13:45] NOTICE: ready to handle connections
+[26-Aug-2021 03:13:45] NOTICE: systemd monitor interval set to 10000ms
+[26-Aug-2021 03:27:28] NOTICE: fpm is running, pid 11625
+[26-Aug-2021 03:27:28] NOTICE: ready to handle connections
+[26-Aug-2021 03:27:28] NOTICE: systemd monitor interval set to 10000ms
+[28-Aug-2021 09:44:51] NOTICE: Finishing ...
+[28-Aug-2021 09:44:52] NOTICE: exiting, bye-bye!
+[28-Aug-2021 09:44:52] NOTICE: fpm is running, pid 14198
+[28-Aug-2021 09:44:52] NOTICE: ready to handle connections
+[28-Aug-2021 09:44:52] NOTICE: systemd monitor interval set to 10000ms
+[31-Aug-2021 15:34:50] NOTICE: fpm is running, pid 48
+[31-Aug-2021 15:34:50] NOTICE: ready to handle connections
+[31-Aug-2021 15:34:50] NOTICE: systemd monitor interval set to 10000ms
+[01-Sep-2021 08:29:54] NOTICE: fpm is running, pid 46
+[01-Sep-2021 08:29:54] NOTICE: ready to handle connections
+[01-Sep-2021 08:29:54] NOTICE: systemd monitor interval set to 10000ms
+[02-Sep-2021 10:50:30] NOTICE: fpm is running, pid 64
+[02-Sep-2021 10:50:30] NOTICE: ready to handle connections
+[02-Sep-2021 10:50:30] NOTICE: systemd monitor interval set to 10000ms
+[02-Sep-2021 10:59:25] NOTICE: fpm is running, pid 53
+[02-Sep-2021 10:59:25] NOTICE: ready to handle connections
+[02-Sep-2021 10:59:25] NOTICE: systemd monitor interval set to 10000ms
+[02-Sep-2021 11:20:07] NOTICE: fpm is running, pid 45
+[02-Sep-2021 11:20:07] NOTICE: ready to handle connections
+[02-Sep-2021 11:20:07] NOTICE: systemd monitor interval set to 10000ms
+[04-Sep-2021 13:53:41] NOTICE: fpm is running, pid 46
+[04-Sep-2021 13:53:41] NOTICE: ready to handle connections
+[04-Sep-2021 13:53:41] NOTICE: systemd monitor interval set to 10000ms
+[05-Sep-2021 16:43:06] NOTICE: Terminating ...
+[06-Sep-2021 01:59:33] NOTICE: fpm is running, pid 48
+[06-Sep-2021 01:59:33] NOTICE: ready to handle connections
+[06-Sep-2021 01:59:33] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2021 04:58:54] NOTICE: Finishing ...
+[07-Sep-2021 04:58:54] NOTICE: exiting, bye-bye!
+[07-Sep-2021 04:58:54] NOTICE: fpm is running, pid 889
+[07-Sep-2021 04:58:54] NOTICE: ready to handle connections
+[07-Sep-2021 04:58:54] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2021 05:02:01] NOTICE: Finishing ...
+[07-Sep-2021 05:02:01] NOTICE: exiting, bye-bye!
+[07-Sep-2021 05:02:01] NOTICE: fpm is running, pid 1303
+[07-Sep-2021 05:02:01] NOTICE: ready to handle connections
+[07-Sep-2021 05:02:01] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2021 05:16:57] NOTICE: Finishing ...
+[07-Sep-2021 05:16:57] NOTICE: exiting, bye-bye!
+[07-Sep-2021 05:16:57] NOTICE: fpm is running, pid 1409
+[07-Sep-2021 05:16:57] NOTICE: ready to handle connections
+[07-Sep-2021 05:16:57] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2021 05:21:18] NOTICE: fpm is running, pid 49
+[07-Sep-2021 05:21:18] NOTICE: ready to handle connections
+[07-Sep-2021 05:21:18] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2021 06:00:24] NOTICE: Finishing ...
+[07-Sep-2021 06:00:24] NOTICE: exiting, bye-bye!
+[07-Sep-2021 06:00:24] NOTICE: fpm is running, pid 19649
+[07-Sep-2021 06:00:24] NOTICE: ready to handle connections
+[07-Sep-2021 06:00:24] NOTICE: systemd monitor interval set to 10000ms
+[07-Sep-2021 16:19:49] NOTICE: fpm is running, pid 45
+[07-Sep-2021 16:19:49] NOTICE: ready to handle connections
+[07-Sep-2021 16:19:49] NOTICE: systemd monitor interval set to 10000ms
+[08-Sep-2021 10:21:01] NOTICE: Terminating ...
+[08-Sep-2021 10:32:59] NOTICE: fpm is running, pid 46
+[08-Sep-2021 10:32:59] NOTICE: ready to handle connections
+[08-Sep-2021 10:32:59] NOTICE: systemd monitor interval set to 10000ms
+[09-Sep-2021 01:25:52] NOTICE: fpm is running, pid 48
+[09-Sep-2021 01:25:52] NOTICE: ready to handle connections
+[09-Sep-2021 01:25:52] NOTICE: systemd monitor interval set to 10000ms
+[09-Sep-2021 09:33:25] NOTICE: fpm is running, pid 61
+[09-Sep-2021 09:33:25] NOTICE: ready to handle connections
+[09-Sep-2021 09:33:25] NOTICE: systemd monitor interval set to 10000ms
+[09-Sep-2021 09:48:27] NOTICE: Terminating ...
+[09-Sep-2021 09:48:27] NOTICE: exiting, bye-bye!
+[09-Sep-2021 09:48:32] NOTICE: fpm is running, pid 610
+[09-Sep-2021 09:48:32] NOTICE: ready to handle connections
+[09-Sep-2021 09:48:32] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2021 09:18:43] NOTICE: fpm is running, pid 50
+[10-Sep-2021 09:18:43] NOTICE: ready to handle connections
+[10-Sep-2021 09:18:43] NOTICE: systemd monitor interval set to 10000ms
+[10-Sep-2021 12:00:57] NOTICE: fpm is running, pid 47
+[10-Sep-2021 12:00:57] NOTICE: ready to handle connections
+[10-Sep-2021 12:00:57] NOTICE: systemd monitor interval set to 10000ms
+[11-Sep-2021 17:44:39] NOTICE: fpm is running, pid 46
+[11-Sep-2021 17:44:39] NOTICE: ready to handle connections
+[11-Sep-2021 17:44:39] NOTICE: systemd monitor interval set to 10000ms
+[14-Sep-2021 06:44:19] NOTICE: Terminating ...
+[14-Sep-2021 06:47:16] NOTICE: fpm is running, pid 50
+[14-Sep-2021 06:47:16] NOTICE: ready to handle connections
+[14-Sep-2021 06:47:16] NOTICE: systemd monitor interval set to 10000ms
+[19-Sep-2021 10:25:53] NOTICE: fpm is running, pid 46
+[19-Sep-2021 10:25:53] NOTICE: ready to handle connections
+[19-Sep-2021 10:25:53] NOTICE: systemd monitor interval set to 10000ms
+[19-Sep-2021 11:19:42] NOTICE: fpm is running, pid 269
+[19-Sep-2021 11:19:42] NOTICE: ready to handle connections
+[19-Sep-2021 11:19:42] NOTICE: systemd monitor interval set to 10000ms
+[19-Sep-2021 11:23:56] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 19 idle, and 25 total children
+[20-Sep-2021 03:11:17] NOTICE: Reloading in progress ...
+[20-Sep-2021 03:11:17] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[20-Sep-2021 03:11:18] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[20-Sep-2021 03:11:18] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[20-Sep-2021 03:11:18] NOTICE: fpm is running, pid 269
+[20-Sep-2021 03:11:18] NOTICE: ready to handle connections
+[20-Sep-2021 03:11:18] NOTICE: systemd monitor interval set to 10000ms
+[20-Sep-2021 03:12:37] NOTICE: Reloading in progress ...
+[20-Sep-2021 03:12:37] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[20-Sep-2021 03:12:37] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[20-Sep-2021 03:12:37] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[20-Sep-2021 03:12:37] NOTICE: fpm is running, pid 269
+[20-Sep-2021 03:12:37] NOTICE: ready to handle connections
+[20-Sep-2021 03:12:37] NOTICE: systemd monitor interval set to 10000ms
+[20-Sep-2021 03:57:35] NOTICE: Reloading in progress ...
+[20-Sep-2021 03:57:35] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[20-Sep-2021 03:57:35] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[20-Sep-2021 03:57:35] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[20-Sep-2021 03:57:35] NOTICE: fpm is running, pid 269
+[20-Sep-2021 03:57:35] NOTICE: ready to handle connections
+[20-Sep-2021 03:57:35] NOTICE: systemd monitor interval set to 10000ms
+[20-Sep-2021 04:36:55] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 19 idle, and 25 total children
+[21-Sep-2021 09:34:09] NOTICE: Reloading in progress ...
+[21-Sep-2021 09:34:10] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[21-Sep-2021 09:34:10] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[21-Sep-2021 09:34:10] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[21-Sep-2021 09:34:10] NOTICE: fpm is running, pid 269
+[21-Sep-2021 09:34:10] NOTICE: ready to handle connections
+[21-Sep-2021 09:34:10] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2021 09:40:02] NOTICE: fpm is running, pid 45
+[21-Sep-2021 09:40:02] NOTICE: ready to handle connections
+[21-Sep-2021 09:40:02] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2021 09:42:25] NOTICE: fpm is running, pid 49
+[21-Sep-2021 09:42:25] NOTICE: ready to handle connections
+[21-Sep-2021 09:42:25] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2021 09:49:47] NOTICE: Reloading in progress ...
+[21-Sep-2021 09:49:48] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[21-Sep-2021 09:49:48] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[21-Sep-2021 09:49:48] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[21-Sep-2021 09:49:48] NOTICE: fpm is running, pid 49
+[21-Sep-2021 09:49:48] NOTICE: ready to handle connections
+[21-Sep-2021 09:49:48] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2021 10:11:34] NOTICE: fpm is running, pid 244
+[21-Sep-2021 10:11:34] NOTICE: ready to handle connections
+[21-Sep-2021 10:11:34] NOTICE: systemd monitor interval set to 10000ms
+[21-Sep-2021 10:11:51] WARNING: [pool www] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 19 idle, and 25 total children
+[23-Sep-2021 04:14:00] NOTICE: Reloading in progress ...
+[23-Sep-2021 04:14:01] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 04:14:01] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 04:14:01] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 04:14:01] NOTICE: fpm is running, pid 244
+[23-Sep-2021 04:14:01] NOTICE: ready to handle connections
+[23-Sep-2021 04:14:01] NOTICE: systemd monitor interval set to 10000ms
+[23-Sep-2021 04:17:23] NOTICE: Reloading in progress ...
+[23-Sep-2021 04:17:23] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 04:17:23] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 04:17:23] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 04:17:23] NOTICE: fpm is running, pid 244
+[23-Sep-2021 04:17:23] NOTICE: ready to handle connections
+[23-Sep-2021 04:17:23] NOTICE: systemd monitor interval set to 10000ms
+[23-Sep-2021 05:04:58] NOTICE: Reloading in progress ...
+[23-Sep-2021 05:04:58] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 05:04:58] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 05:04:58] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 05:04:58] NOTICE: fpm is running, pid 244
+[23-Sep-2021 05:04:58] NOTICE: ready to handle connections
+[23-Sep-2021 05:04:58] NOTICE: systemd monitor interval set to 10000ms
+[23-Sep-2021 08:49:38] NOTICE: Reloading in progress ...
+[23-Sep-2021 08:49:38] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 08:49:39] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 08:49:39] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 08:49:39] NOTICE: fpm is running, pid 244
+[23-Sep-2021 08:49:39] NOTICE: ready to handle connections
+[23-Sep-2021 08:49:39] NOTICE: systemd monitor interval set to 10000ms
+[23-Sep-2021 08:50:35] NOTICE: Reloading in progress ...
+[23-Sep-2021 08:50:36] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 08:50:36] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 08:50:36] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 08:50:36] NOTICE: fpm is running, pid 244
+[23-Sep-2021 08:50:36] NOTICE: ready to handle connections
+[23-Sep-2021 08:50:36] NOTICE: systemd monitor interval set to 10000ms
+[23-Sep-2021 11:29:57] NOTICE: Reloading in progress ...
+[23-Sep-2021 11:29:58] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 11:29:58] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 11:29:58] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 11:29:58] NOTICE: fpm is running, pid 244
+[23-Sep-2021 11:29:58] NOTICE: ready to handle connections
+[23-Sep-2021 11:29:58] NOTICE: systemd monitor interval set to 10000ms
+[23-Sep-2021 11:33:28] NOTICE: Reloading in progress ...
+[23-Sep-2021 11:33:28] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 11:33:28] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 11:33:28] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 11:33:28] NOTICE: fpm is running, pid 244
+[23-Sep-2021 11:33:28] NOTICE: ready to handle connections
+[23-Sep-2021 11:33:28] NOTICE: systemd monitor interval set to 10000ms
+[23-Sep-2021 12:02:20] NOTICE: Reloading in progress ...
+[23-Sep-2021 12:02:21] NOTICE: reloading: execvp("/usr/sbin/php-fpm7.2", {"/usr/sbin/php-fpm7.2", "-F"})
+[23-Sep-2021 12:02:21] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 12:02:21] NOTICE: using inherited socket fd=9, "/var/run/php/php7.2-fpm.sock"
+[23-Sep-2021 12:02:21] NOTICE: fpm is running, pid 244
+[23-Sep-2021 12:02:21] NOTICE: ready to handle connections
+[23-Sep-2021 12:02:21] NOTICE: systemd monitor interval set to 10000ms
+[27-Sep-2021 02:53:25] NOTICE: fpm is running, pid 46
+[27-Sep-2021 02:53:25] NOTICE: ready to handle connections
+[27-Sep-2021 02:53:25] NOTICE: systemd monitor interval set to 10000ms
+[29-Sep-2021 17:48:31] NOTICE: fpm is running, pid 46
+[29-Sep-2021 17:48:31] NOTICE: ready to handle connections
+[29-Sep-2021 17:48:31] NOTICE: systemd monitor interval set to 10000ms
+[01-Oct-2021 08:57:57] NOTICE: fpm is running, pid 45
+[01-Oct-2021 08:57:57] NOTICE: ready to handle connections
+[01-Oct-2021 08:57:57] NOTICE: systemd monitor interval set to 10000ms
